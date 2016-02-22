@@ -3,61 +3,15 @@
   id: "01"
   elements:
     - {
-      date: "12 de Março",
-      place: "PUC-RS",
-      title: "Desenvolvimento Front-end - HTML e CSS",
-      description: "Esta oficina é para você que deseja dar o passo inicial no desenvolvimento front-end e aprender a desenvolver com as melhores práticas. Você aprenderá HTML e CSS, seguindo os padrões utilizados no mercado de forma prática.",
-      type: "frontend",
-      complexity: "Nenhum",
+      date: "19 de Março",
+      place: "Senac Informática",
+      title: "Maratona #WMC Porto Alegre",
+      description: "Com foco no empoderamento feminino na tecnologia e na igualidade de gênero, o WoMakersCode começa 2016 com uma maratona de atividades! Queremos aproximar a comunidade de desenvolvimento, para aprender e debater junto sobre tecnologia e sobre a cultura
+       de inclusão.",
+      type: "all",
+      complexity: "Livre",
       public: "Todos",
-      link: "http://www.eventick.com.br/wmc16-front-end",
-      organizer: "Cynthia Zanoni"
-    }
-    - {
-      date: "12 de Março",
-      place: "SENAC-RS",
-      title: "Meu primeiro aplicativo Mobile",
-      description: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim!",
-      type: "mobile",
-      complexity: "Nenhum",
-      public: "Adultos",
-      link: "null",
-      organizer: "Cynthia Zanoni"
-    }
-    - {
-      date: "14 de Março",
-      place: "PUC-RS",
-      title: "Como criar a melhor arquitetura visual - Sites",
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur expedita, sequi quas quibusdam ex aut, autem mollitia ut sunt saepe! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, id!",
-      type: "ux",
-      complexity: "HTML + CSS + JS",
-      public: "Adolescentes",
-      link: "null",
-      organizer: "Lucas Coiro"
-    }
-    - {
-      date: "13 de Março",
-      place: "SENAC-RS",
-      title: "Envolva-se com a Mozilla",
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur expedita, sequi quas quibusdam ex aut, autem mollitia ut sunt saepe! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, id!",
-      type: "mozilla",
-      complexity: "Nenhum",
-      public: "Todos",
-      link: "null",
-      organizer: "Rodrigo Waters"
-    }
--
-  group: "Campinas"
-  id: "02"
-  elements:
-    - {
-      date: "14 de Março",
-      place: "Jovem Hacker",
-      title: "Desenvolvimento ágil com Docker",
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur expedita, sequi quas quibusdam ex aut, autem mollitia ut sunt saepe! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, id!",
-      type: "backend",
-      complexity: "Git",
-      public: "Adultos",
-      link: "null",
-      organizer: "Samuel Moraes"
+      link: "http://womakerscode.org/porto-alegre",
+      organizer: "WoMakersCode RS",
+      organizerLabel: "Organização"
     }
