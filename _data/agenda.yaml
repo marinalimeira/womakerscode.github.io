@@ -15,3 +15,20 @@
       organizer: "WoMakersCode RS",
       organizerLabel: "Organização"
     }
+
+-
+  group: "Campinas"
+  id: "02"
+  elements:
+    - {
+      date: "16 de Março",
+      place: "CEU Florence",
+      title: "Maratona #WMC Campinas",
+      description: "WoMakersCode chega em Campinas com uma maratona de atividades práticas para capacitar pessoas a aprender o básico de desenvolvimento web com HTML e CSS e Bootstrap v3.",
+      type: "all",
+      complexity: "Livre",
+      public: "Todos",
+      link: "http://womakerscode.org/campinas",
+      organizer: "Leão Mozilla Clubs",
+      organizerLabel: "Organização"
+    }
