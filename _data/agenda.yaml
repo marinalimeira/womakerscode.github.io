@@ -24,11 +24,11 @@
       date: "16 de Março",
       place: "CEU Florence",
       title: "Maratona #WMC Campinas",
-      description: "WoMakersCode chega em Campinas com uma maratona de atividades práticas para capacitar pessoas a aprender o básico de desenvolvimento web com HTML e CSS e Bootstrap v3.",
+      description: "A Maratona WoMakersCode chega em Campinas com objetivo de fornecer ao aluno uma visão geral das técnicas, princípios, conceitos básicos e fundamentos do framework Bootstrap 3, capacitando-o a empregar as funcionalidades do framework para desenvolver layout responsivo.",
       type: "all",
       complexity: "Livre",
       public: "Todos",
-      link: "http://womakerscode.org/campinas",
+      link: "http://eventick.com.br/wmc16campinas",
       organizer: "Leão Mozilla Clubs",
       organizerLabel: "Organização"
     }
