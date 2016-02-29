@@ -47,3 +47,19 @@
       organizer: "Cristina Luz",
       organizerLabel: "Organização"
     }
+  -
+  group: "Aracaju"
+  id: "03"
+  elements:
+    - {
+      date: "A confirmar",
+      place: "Universidade Tiradentes",
+      title: "Desenvolvendo front-end para a web : Hands on",
+      description: "Workshop com uma abordagem prática sobre fundamentos para projetos web, desde a sua concepção, passando pela experiência de usuário, programação, até o alinhamento de negócios",
+      type: "all",
+      complexity: "Livre",
+      public: "Todos",
+      link: "http://womakerscode.org/#",
+      organizer: "Vinícius Colares",
+      organizerLabel: "Organizador"
+      }
