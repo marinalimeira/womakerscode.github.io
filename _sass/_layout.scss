@@ -935,3 +935,97 @@ body
         padding-bottom: 1.2rem;
     }
 }
+
+.logo-final
+{
+    margin-top: 30px;
+    padding-top: 20px;
+
+    border-top: 1px solid #d7d7d7;
+}
+
+.logo-footer
+{
+    display: block;
+
+    width: 50px;
+    margin: 0 auto;
+    padding: 5px;
+
+    border-radius: 50%;
+    background: #21262a;
+
+    img
+    {
+        max-width: 90%;
+        max-height: 90%;
+
+        border-radius: 50%;
+    }
+}
+
+.picture-location
+{
+    box-sizing: border-box;
+    height: 225px;
+    padding: 6px 0 5px 5px;
+
+    background: #21262a;
+    img
+    {
+        max-width: 100%;
+    }
+}
+
+.btn-schedule-out
+{
+    font-family: $heading-font, sans-serif;
+    font-weight: 700;
+    line-height: 44px;
+
+    display: block;
+    float: right;
+
+    width: 200px;
+    height: 44px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #fff;
+    background-color: $theme-primary;
+    &:hover
+    {
+        color: #fff;
+        background-color: $theme-dark;
+    }
+}
+
+.panel-title
+{
+    font-family: $heading-font, sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.panel-body
+{
+    .text-justify
+    {
+        font-size: 1.4rem;
+    }
+}
+
+.section-schedule .panel-default
+{
+    display: inline-block;
+
+    border: 2px solid;
+    border-bottom-width: 4px;
+}
+
+.panel-heading
+{
+    padding-top: 10px;
+    padding-bottom: 0;
+}

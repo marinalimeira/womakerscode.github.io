@@ -1,28 +1,30 @@
 -
-  group: "Porto Alegre"
+  group: "Rio Grande do Sul"
   id: "01"
   elements:
     - {
       date: "19 de Março",
       place: "Senac Informática",
+      picture: "poa-rs.jpg",
       title: "Maratona #WMC Porto Alegre",
       description: "Com foco no empoderamento feminino na tecnologia e na igualidade de gênero, o WoMakersCode começa 2016 com uma maratona de atividades! Queremos aproximar a comunidade de desenvolvimento, para aprender e debater junto sobre tecnologia e sobre a cultura
        de inclusão.",
       type: "all",
       complexity: "Livre",
       public: "Todos",
-      link: "http://womakerscode.org/porto-alegre",
+      link: "http://www.eventick.com.br/maratona-wmc16",
       organizer: "WoMakersCode RS",
       organizerLabel: "Organização"
     }
 
 -
-  group: "Campinas"
+  group: "São Paulo"
   id: "02"
   elements:
     - {
       date: "16 de Março",
       place: "CEU Florence",
+      picture: "campinas-sp.jpg",
       title: "Maratona #WMC Campinas",
       description: "A Maratona WoMakersCode chega em Campinas com objetivo de fornecer ao aluno uma visão geral das técnicas, princípios, conceitos básicos e fundamentos do framework Bootstrap 3, capacitando-o a empregar as funcionalidades do framework para desenvolver layout responsivo.",
       type: "all",
@@ -30,5 +32,18 @@
       public: "Todos",
       link: "http://eventick.com.br/wmc16campinas",
       organizer: "Leão Mozilla Clubs",
+      organizerLabel: "Organização"
+    }
+    - {
+      date: "19 de Março",
+      place: "Germinadora",
+      picture: "sp-capital.jpg",
+      title: "Maratona #WMC São Paulo - Capital",
+      description: "WoMakersCode chega a São Paulo, trazendo um capítulo da Maratona #WMC16, contando com o apoio de comunidades locais que acreditem na importância de um mercado de trabalho mais justo e igualitário.",
+      type: "all",
+      complexity: "Livre",
+      public: "Todos",
+      link: "http://www.eventick.com.br/maratona-wmc16-sp",
+      organizer: "Cristina Luz",
       organizerLabel: "Organização"
     }

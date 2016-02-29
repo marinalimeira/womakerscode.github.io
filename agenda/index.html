@@ -29,21 +29,31 @@ permalink: /agenda/
         <div id="schedule-tab-{{ evento.id }}" class="tab-pane fade{% if evento.id == "01" %} in active{% endif %}" role="tabpanel">
           {% for element in evento.elements %}
           <div class="panel panel-default">
-            <div class="panel-heading {{ element.type }}">
-              <h3 class="panel-title">{{ element.title }}</h3>
+            <div class="col-lg-3 picture-location">
+              <img src="{{ site.baseurl }}/img/location/{{ element.picture }}" alt="{{ element.title }}" title="{{ element.title }}" />
             </div>
-            <div class="panel-body">
-              <p class="text-justify">{{ element.description }}</p>
-            </div>
-            <div class="panel-footer">
-              <ul class="list-inline">
-                <li><i class="fa fa-calendar"></i> <b>Data:</b> {{ element.date }}</li>
-                <li><i class="fa fa-map-marker"></i> <b>Local:</b> {{ element.place }}</li>
-                <li><i class="fa fa-user"></i> <b>Público:</b> {{ element.public }}</li>
-                <li><i class="fa fa-certificate"></i> <b>Pré-requisito:</b> {{ element.complexity }}</li>
-                <li><i class="fa fa-bullhorn"></i> <b>{{ element.organizerLabel }}:</b> {{ element.organizer }}</li>
-                <li><a href="{{ element.link }}" target="_blank" class="btn-schedule-out">Conhecer <i class="fa fa-angle-double-right"></i></a></li>
-              </ul>
+
+            <div class="col-lg-9">
+              <div class="panel-heading {{ element.type }}">
+                <h3 class="panel-title">{{ element.title }}</h3>
+              </div>
+              <div class="panel-body">
+                <ul class="list-inline">
+                  <li>
+                    <i class="fa fa-calendar"></i> <b>Data:</b>
+                    <time datetime="{{ element.date }}">{{ element.date }}</time>
+                  </li>
+                  <li>
+                    <i class="fa fa-map-marker"></i> <b>Local:</b>
+                    {{ element.place }}
+                  </li>
+
+                  <li><i class="fa fa-certificate"></i> <b>Pré-requisito:</b> {{ element.complexity }}</li>
+                  <li><i class="fa fa-bullhorn"></i> <b>{{ element.organizerLabel }}:</b> {{ element.organizer }}</li>
+                </ul>
+                <p class="text-justify">{{ element.description }}</p>
+                <a href="{{ element.link }}" target="_blank" class="btn-schedule-out">Participe <i class="fa fa-angle-double-right"></i></a>
+              </div>
             </div>
           </div>
           {% endfor %}
