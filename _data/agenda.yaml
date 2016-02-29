@@ -54,6 +54,7 @@
     - {
       date: "A confirmar",
       place: "Universidade Tiradentes",
+      picture: "poa-rs.JPG",
       title: "Desenvolvendo front-end para a web : Hands on",
       description: "Workshop com uma abordagem prática sobre fundamentos para projetos web, desde a sua concepção, passando pela experiência de usuário, programação, até o alinhamento de negócios",
       type: "all",
