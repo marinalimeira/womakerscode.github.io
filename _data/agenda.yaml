@@ -16,7 +16,6 @@
       organizer: "WoMakersCode RS",
       organizerLabel: "Organização"
     }
-
 -
   group: "São Paulo"
   id: "02"
@@ -47,7 +46,7 @@
       organizer: "Cristina Luz",
       organizerLabel: "Organização"
     }
-  -
+-
   group: "Aracaju"
   id: "03"
   elements:
