@@ -21,6 +21,19 @@
   id: "02"
   elements:
     - {
+      date: "12 de Março",
+      place: "Jaboticabal",
+      picture: "jaboti12main.jpg",
+      title: "Maratona #WMC16 Jaboticabal-SP",
+      description: "Workshop e bate papo para você aprender a criar sites - do papel ao código - e ainda entender conhecer mais sobre internet das coisas! Orgulhosamente organizado pelo time do JabukaMoz :-)",
+      type: "all",
+      complexity: "Livre",
+      public: "Todos",
+      link: "http://www.eventick.com.br/maratona-wmc16-jaboticabal",
+      organizer: "Felipe Do Espirito Santo",
+      organizerLabel: "Organização"
+    }
+    - {
       date: "16 de Março",
       place: "CEU Florence",
       picture: "campinas-sp.jpg",
