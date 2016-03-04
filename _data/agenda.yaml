@@ -94,3 +94,20 @@
       organizer: "Edivânia Dias",
       organizerLabel: "Organização"
     }
+-
+  group: "Maceió"
+  id: "05"
+  elements:
+    - {
+      date: "19 de Março",
+      place: "SENAC Farol",
+      picture: "maceio.jpg",
+      title: "Maratona #WMC Maceió",
+      description: "Workshop para você aprender a criar sites",
+      type: "all", 
+      complexity: "Livre",
+      public: "Todos",
+      link: "http://womakerscode.org/#",
+      organizer: "Esther de Freitas e Marina Limeira",
+      organizerLabel: "Organizador"
+      }
