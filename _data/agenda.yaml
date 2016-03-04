@@ -1,6 +1,41 @@
 -
-  group: "Rio Grande do Sul"
+  group: "Alagoas"
   id: "01"
+  elements:
+    - {
+      date: "19 de Março",
+      place: "SENAC Farol",
+      picture: "maceio.jpg",
+      title: "Maratona #WMC Maceió",
+      description: "Workshop para você aprender a criar sites",
+      type: "all", 
+      complexity: "Livre",
+      public: "Todos",
+      link: "http://womakerscode.org/#",
+      organizer: "Esther de Freitas e Marina Limeira",
+      organizerLabel: "Organizador"
+      }
+-
+  group: "Bahia"
+  id: "02"
+  elements:
+    - {
+      date: "03 de Março",
+      place: "Colégio Estadual Quintinha de Melo",
+      picture: "barreiras.jpg",
+      title: "#WMC Barreiras, Bahia",
+      description: "Com foco no empoderamento feminino na tecnologia e na igualidade de gênero, o WoMakersCode começa 2016 com uma maratona de atividades! Nesta atividade, vamos trabalhar com inclusão digital.
+       de inclusão.",
+      type: "all",
+      complexity: "Aberto ao Público",
+      public: "Todos",
+      link: "#",
+      organizer: "Edivânia Dias",
+      organizerLabel: "Organização"
+    }
+-
+  group: "Rio Grande do Sul"
+  id: "03"
   elements:
     - {
       date: "19 de Março",
@@ -18,7 +53,7 @@
     }
 -
   group: "São Paulo"
-  id: "02"
+  id: "03"
   elements:
     - {
       date: "12 de Março",
@@ -61,7 +96,7 @@
     }
 -
   group: "Sergipe"
-  id: "03"
+  id: "04"
   elements:
     - {
       date: "A confirmar",
@@ -76,38 +111,4 @@
       organizer: "Vinícius Colares",
       organizerLabel: "Organizador"
       }
--
-  group: "Bahia"
-  id: "04"
-  elements:
-    - {
-      date: "03 de Março",
-      place: "Colégio Estadual Quintinha de Melo",
-      picture: "barreiras.jpg",
-      title: "#WMC Barreiras, Bahia",
-      description: "Com foco no empoderamento feminino na tecnologia e na igualidade de gênero, o WoMakersCode começa 2016 com uma maratona de atividades! Nesta atividade, vamos trabalhar com inclusão digital.
-       de inclusão.",
-      type: "all",
-      complexity: "Aberto ao Público",
-      public: "Todos",
-      link: "#",
-      organizer: "Edivânia Dias",
-      organizerLabel: "Organização"
-    }
--
-  group: "Maceió"
-  id: "05"
-  elements:
-    - {
-      date: "19 de Março",
-      place: "SENAC Farol",
-      picture: "maceio.jpg",
-      title: "Maratona #WMC Maceió",
-      description: "Workshop para você aprender a criar sites",
-      type: "all", 
-      complexity: "Livre",
-      public: "Todos",
-      link: "http://womakerscode.org/#",
-      organizer: "Esther de Freitas e Marina Limeira",
-      organizerLabel: "Organizador"
-      }
+
