@@ -7,13 +7,13 @@
       place: "SENAC Farol",
       picture: "maceio.jpg",
       title: "Maratona #WMC Maceió",
-      description: "Workshop para você aprender a criar sites",
-      type: "all", 
+      description: "Este é um workshop com uma abordagem prática sobre como a web funciona, e você terá a oportunidade de começar criar as suas próprias páginas!",
+      type: "all",
       complexity: "Livre",
       public: "Todos",
-      link: "http://womakerscode.org/#",
+      link: "http://www.eventick.com.br/workshop-march-mcz-wmc16",
       organizer: "Esther de Freitas e Marina Limeira",
-      organizerLabel: "Organizador"
+      organizerLabel: "Organização"
       }
 -
   group: "Bahia"
@@ -104,7 +104,7 @@
       picture: "aracaju.png",
       title: "Desenvolvendo front-end para a web : Hands-on",
       description: "Workshop com uma abordagem prática sobre fundamentos para projetos web, desde a sua concepção, passando pela experiência de usuário, programação, até o alinhamento de negócios",
-      type: "all", 
+      type: "all",
       complexity: "Livre",
       public: "Todos",
       link: "http://womakerscode.org/#",
